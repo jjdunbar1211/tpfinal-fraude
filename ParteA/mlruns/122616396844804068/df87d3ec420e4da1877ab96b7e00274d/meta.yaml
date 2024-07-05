@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/csami/OneDrive/Escritorio/cursos/edvai/ds-mlops/tp-final/tp-final-cm/ParteA/mlruns/122616396844804068/df87d3ec420e4da1877ab96b7e00274d/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '122616396844804068'
+lifecycle_stage: active
+run_id: df87d3ec420e4da1877ab96b7e00274d
+run_name: masked-hawk-188
+run_uuid: df87d3ec420e4da1877ab96b7e00274d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719942431036
+status: 1
+tags: []
+user_id: csami
